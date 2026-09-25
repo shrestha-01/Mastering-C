@@ -26,4 +26,5 @@ int main(){
     //we dont use %d becuase the sizeof() return in size_t type which can be hold by %zu
 
     return 0;
+    
 }
